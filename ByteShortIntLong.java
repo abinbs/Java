@@ -30,6 +30,8 @@ public class ByteShortIntLong {
 *  Int - int data type is most common for storing in storing integers
 *
 * Long - We use long for extremely large numbers
+*
+* Note:
 * */
 
 }
