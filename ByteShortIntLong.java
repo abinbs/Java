@@ -31,7 +31,15 @@ public class ByteShortIntLong {
 *
 * Long - We use long for extremely large numbers
 *
-* Note:
+* Note:The long data type is a 64-bit two's complement integer.
+Its value-range lies between -9,223,372,036,854,775,808(-2^63) to 9,223,372,036,854,775,807(2^63 -1)(inclusive).
+Its minimum value is - 9,223,372,036,854,775,808and maximum value is 9,223,372,036,854,775,807.
+Its default value is 0.
+
+The short data type is a 16-bit signed two's complement integer.
+Its value-range lies between -32,768 to 32,767 (inclusive).
+Its minimum value is -32,768 and maximum value is 32,767.
+Its default value is 0. 
 * */
 
 }
